@@ -34,5 +34,5 @@ if (cmd === `${prefixi}nvite`){
 
    return;
  }
-})
+});
 client.login(process.env.BOT_TOKEN));
