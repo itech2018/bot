@@ -1,6 +1,8 @@
 if (cmd === `${prefix}killswich`){
-  return message.channel.send(
-    "why kill me anyway bye bye ");
+  return message.channel.send("why kill me anyway bye bye ");
+}
+if (cmd === `${prefixi}nvite`){
+    return message.channel.send(https://discordapp.com/api/oauth2/authorize?client_id=443121054530142228&permissions=8&scope=bot)
 }
  if(cmd ===`${prefix}severstats`){
    let bicon = bot.user.displayAvatarURL;
